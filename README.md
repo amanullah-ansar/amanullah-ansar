@@ -22,6 +22,6 @@ I'm an **Artificial Intelligence & Cyber Security student** with a passion for e
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/amanullah-ansar)
 - [GitHub](https://github.com/amanullah-ansar)
-- Email: [mfawas319@gmail.com]
+- [Email][mfawas319@gmail.com]
 
 > "Learning is a continuous journey — I am building my skills every day to make AI and cybersecurity safer and smarter."
